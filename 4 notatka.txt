@@ -1,6 +1,8 @@
-za dużo za mało za krótko za długo za cicho za głośno za wolno za szybko
+za dużo, za mało, za krótko, za długo, za cicho, za głośno, za wolno, za szybko
 
 BUGz
 
 za dużo, za mało, za krótko, za długo, za cicho, za głośno, za wolno, za szybko
 
+RESPONSE:
+chyba poprawiłem, możesz sprawdzić?

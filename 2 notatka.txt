@@ -10,3 +10,6 @@ BUGz
 2. bląd -> błąd
 3. ejst -> jest
 4. Łali -> Walle
+
+RESPONSE:
+możesz poprawić? Nie mam czasu

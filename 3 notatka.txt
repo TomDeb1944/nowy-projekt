@@ -11,3 +11,6 @@ BUGz
 2. ejst -> jest
 3. Dokont -> Dokąd
 4. zmieszamy -> zmierzamy
+
+RESPONSE:
+możesz poprawić? Nie mam czasu
