@@ -4,3 +4,10 @@ gdzie jest błąd?
 gdzie ejst Walle?
 kim jesteśmy?
 Dokont zmieszamy?
+
+BUGz
+
+1. zawira -> zawiera
+2. ejst -> jest
+3. Dokont -> Dokąd
+4. zmieszamy -> zmierzamy

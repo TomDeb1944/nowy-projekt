@@ -1,1 +1,7 @@
 ten teskt zawiera blond, czeba je znaleźć i porpawić
+
+BUGz
+
+1. blond -> błąd
+2. czeba -> trzeba
+3. porpawić -> poprawić

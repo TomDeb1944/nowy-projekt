@@ -3,3 +3,10 @@ gdzie ejst błąd?
 gdzie jest Łali?
 
 I co z tym dalej zrobimy?
+
+BUGz
+
+1. tesz -> też
+2. bląd -> błąd
+3. ejst -> jest
+4. Łali -> Walle
