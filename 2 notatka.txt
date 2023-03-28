@@ -1,15 +1,5 @@
-ta notatka tesz zawiera bląd
-gdzie ejst błąd?
-gdzie jest Łali?
+ta notatka też zawiera błąd
+gdzie jest błąd?
+gdzie jest Walee?
 
 I co z tym dalej zrobimy?
-
-BUGz
-
-1. tesz -> też
-2. bląd -> błąd
-3. ejst -> jest
-4. Łali -> Walle
-
-RESPONSE:
-możesz poprawić? Nie mam czasu

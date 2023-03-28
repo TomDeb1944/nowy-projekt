@@ -1,10 +1,3 @@
-ten teskt zawiera blond, czeba je znaleźć i porpawić
+ten teskt zawiera bląd, trzeba je znaleźć i porawić
 
-BUGz
 
-1. blond -> błąd
-2. czeba -> trzeba
-3. porpawić -> poprawić
-
-RESPONSE:
-możesz poprawić? Nie mam czasu

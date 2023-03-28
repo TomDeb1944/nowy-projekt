@@ -1,16 +1,6 @@
-ta notatka też zawira błąd
+ta notatka też zawiera błąd
 
 gdzie jest błąd?
-gdzie ejst Walle?
+gdzie jest Walle?
 kim jesteśmy?
-Dokont zmieszamy?
-
-BUGz
-
-1. zawira -> zawiera
-2. ejst -> jest
-3. Dokont -> Dokąd
-4. zmieszamy -> zmierzamy
-
-RESPONSE:
-możesz poprawić? Nie mam czasu
+Dokąd zmierzamy?
